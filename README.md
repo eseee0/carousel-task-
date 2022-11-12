@@ -2,4 +2,4 @@
 
 
 This is a carousel showing my favorite flowers 
-https://github.com/eseee0/carousel-task-
+https://eseee0.github.io/carousel-task-/
